@@ -1,0 +1,4 @@
+KRETA/DKT/Programozási alapok/Verziókezelő és csoportmunka eszközök
+Végig nézése, végén a tezs kitöltése.
+
+Kép az eerdményről (benne van a neved, előrehaladás, teszt)
